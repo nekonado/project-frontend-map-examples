@@ -12,7 +12,7 @@
 └section6.8
 ```
 
-たとえ￥えば、第1章1.3の『HTMLとCSSとJavaScript』のサンプルファイルは、`section1.3`フォルダーに格納されています。
+たとえば、第1章1.3の『HTMLとCSSとJavaScript』のサンプルファイルは、`section1.3`フォルダーに格納されています。
 
 ただし、第3章のハンズオンについては[別途リポジトリ](https://github.com/ics-creative/project-frontend-example)を用意していますので、そちらをご参照ください。
 
